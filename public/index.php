@@ -21,7 +21,7 @@ define('LARAVEL_START', microtime(true));
 |
 */
 
-require __DIR__.'/../academyapp/autoload.php';
+require __DIR__.'/../autoload.php';
 
 /*
 |--------------------------------------------------------------------------
